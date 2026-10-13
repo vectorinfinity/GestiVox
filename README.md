@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖐️ GestiVox
+# 🖥️ GestiVox
 
 ### A Smart Hands-Free Interaction System
 
